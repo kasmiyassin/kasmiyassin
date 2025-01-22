@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kasmiyassin
-- 👀 I’m interested to computational odeling for bioprocess
-- 💞️ I’m looking to collaborate on Virlogy, eDNA, MolecularBiology
+- I am working on Environmental DNA, #eDNA, genetic population and marine biology
+- 👀 I’m interested to computational modeling for 
 - 📫 How to reach me just send me mail
 
 <!---
